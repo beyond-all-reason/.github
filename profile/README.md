@@ -6,6 +6,7 @@ You've arrived at the hub where we craft the ultimate real-time strategy game an
 
 Our mission is simple: to create the game and community we've always dreamed of—by players, for players. Join over 150 contributors who share this vision and dive into the development of Beyond All Reason. Together, we're building an RTS beyond compare. 
 
+![65e5af4e874d945f061ddb8e_Box_-_Armada_Comm_Promo20_Sharpened](https://github.com/user-attachments/assets/69d8edd9-8792-442d-9b82-9224d6f570dc)
 
 <!--
 
